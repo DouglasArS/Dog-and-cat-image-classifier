@@ -1,0 +1,3 @@
+===== METRICS =====
+Accuracy: 81.07 %
+Time: 1915.68 seconds
