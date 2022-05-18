@@ -35,7 +35,7 @@ The CNN created reached an **accuracy of 81.07%** with a training time of approx
 - A graphical interface was also created for users to upload an image to be classified by CNN:
 
 <center>
-<img src = "project_images/user_interface.jpeg" alt="centered image">
+<img src = "project_images/user_interface.png" alt="centered image">
 </center>
 
 ## 🔨 Techniques and technologies:
